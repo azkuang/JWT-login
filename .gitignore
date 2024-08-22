@@ -1,0 +1,3 @@
+# dotenv envronment variable files
+.env
+.evn.test
